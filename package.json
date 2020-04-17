@@ -1,0 +1,24 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "description": "Coursera Week 1 assignment",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdh3hc/week-1.git"
+  },
+  "author": "Mark Hannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdh3hc/week-1/issues"
+  },
+  "homepage": "https://github.com/mdh3hc/week-1#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
